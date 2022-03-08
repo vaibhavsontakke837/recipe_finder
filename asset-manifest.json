@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.83f8d106.css",
-    "main.js": "/static/js/main.6d26c9b7.js",
-    "static/media/food.png": "/static/media/food.089ed4bed972189ec317.png",
-    "static/media/hamburger.svg": "/static/media/hamburger.07089ff4c45c37c926300e47cf94b046.svg",
-    "index.html": "/index.html",
-    "main.83f8d106.css.map": "/static/css/main.83f8d106.css.map",
-    "main.6d26c9b7.js.map": "/static/js/main.6d26c9b7.js.map"
+    "main.css": "/recipe_finder/static/css/main.83f8d106.css",
+    "main.js": "/recipe_finder/static/js/main.a8a0f9ab.js",
+    "static/media/food.png": "/recipe_finder/static/media/food.089ed4bed972189ec317.png",
+    "static/media/hamburger.svg": "/recipe_finder/static/media/hamburger.07089ff4c45c37c926300e47cf94b046.svg",
+    "index.html": "/recipe_finder/index.html",
+    "main.83f8d106.css.map": "/recipe_finder/static/css/main.83f8d106.css.map",
+    "main.a8a0f9ab.js.map": "/recipe_finder/static/js/main.a8a0f9ab.js.map"
   },
   "entrypoints": [
     "static/css/main.83f8d106.css",
-    "static/js/main.6d26c9b7.js"
+    "static/js/main.a8a0f9ab.js"
   ]
 }
